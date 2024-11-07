@@ -1,12 +1,12 @@
 .banner {
-    background: var(--azul-degrade);
-    color: var(--branco);
+    background: var(--R);
+    color: var(--B);
     text-align: center;
     padding: 2.5em 2em;
 }
 
 .banner__titulo {
-    font-size: 18px;
+    font-size: 44px;
     font-weight: 700;
 }
 
@@ -16,9 +16,9 @@
 }
 
 .banner__pesquisa {
-    background-color: transparent;
-    border: 1px solid var(--branco);
-    color: var(--branco);
+    background-color: B;
+    border: 1px solid var(--B);
+    color: var(--R);
     border-radius: 24px;
     padding: 1em;
     width: 100%;

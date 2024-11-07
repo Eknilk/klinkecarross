@@ -1,9 +1,9 @@
 .carrossel__titulo {
-    color: var(--laranja);
+    color: var(--B);
     background-color: var(--branco);
     text-align: center;
     text-transform: uppercase;
-    font-size: 18px;
+    font-size: 44px;
     font-weight: 700;
     padding: 1em 0 0.5em 0;
 }
@@ -25,9 +25,9 @@
 }
 
 .card {
-    background: var(--branco);
+    background: var(--B);
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-    border-radius: 10px;
+    border-radius: 20px;
     margin: 1em;
     padding: 1em;
 }
@@ -50,12 +50,12 @@
 
 
 .descrição__titulo {
-    color: var(--laranja);
+    color: var(--Red);
     font-weight: 700;
 }
 
 .descrição__titulo-livro {
-    color: var(--azul);
+    color: var(--R);
     font-size: 18px;
     font-weight: 700;
     margin: 0.5em 0;
@@ -66,9 +66,9 @@
 }
 
 .botões__ancora {
-    background-color: var(--laranja);
+    background-color: var(--branco);
     padding: 1em 2.2em;
-    color: var(--branco);
+    color: var(--red);
     font-weight: 700;
     text-decoration: none;
 }
